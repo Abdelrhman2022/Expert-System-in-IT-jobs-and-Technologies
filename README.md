@@ -1,0 +1,2 @@
+# Expert-System-in-IT-jobs-and-Technologies-I-Develop-a-data-driven-solution-for-our-students-to-answe
+I Develop a data-driven solution for our students to answer and understand the relationships between the jobs and the technologies. . IT jobs and technologies keep evolving quickly. This makes our field to be one of the most interesting out there. But on the other hand, such fast development confuses our students. They do not know which skills they need to learn for which job. 
